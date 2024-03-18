@@ -1,0 +1,6 @@
+This is a sworm of agents self contained within the local folder. 
+The goal is defined in `goal.txt`. 
+All the files and folders are describbed in `files.txt`, and this file must be updated according to any changes on the filesystem made by the swarm.
+The orchestrator is `main.py`, and it's a group chat with multiple Nested, Assistant, and UserProxy agents.
+Memories from previous iterations are in `memories.txt`. The orchestrator must grab a summary of them before starting, and update them at the end of any operations.
+Each agent on the chat has a specific function. The agents list with their descriptions are within the `agents.txt` file, and they must be taken into consideration by the orchestrator when selecting the next agent. The code for them is within the `agents` folder.
