@@ -1,4 +1,4 @@
-Planner: Creates plan based on the goal, the context information and avaliable agents. Must name the agent to call in each step. 
+Planner: Creates plan based on the goal, the context information and available agents. Must name the agent to call in each step. 
 Files Handler: Read and save files
 Developer: Writes any code as best as an llm can.
 Code Interpreter: Runs code.

@@ -1,7 +1,7 @@
 files.txt: this file - describes everything in the current folder
 description.txt: a description of how this application works
 goal.txt: describes the goal of the application
-agents.txt: a description of all avaliable agents for the main group chat
+agents.txt: a description of all available agents for the main group chat
 docs/: folder containing all necessary external documentation
 docs/autogen-0.2.19/: folder with all documentation for current version of AutoGen
 dependencies/: folder containing all necessary libraries code for reference

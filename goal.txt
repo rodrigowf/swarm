@@ -1,1 +1,1 @@
-Create an orchestrator for yourself with the basic agents describbed in agents.txt.
+Create an orchestrator for yourself with the basic agents described in agents.txt.

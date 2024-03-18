@@ -1,0 +1,1 @@
+Create a Nested Agent that can generate images using the latest version os stable diffusion and see them using vision to approve them or not and maybe refine the prompt to generate better results.
